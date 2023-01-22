@@ -16,3 +16,24 @@ Me llamo Hugo Blanco Cánovas y soy estudiante de 2º de Desarrollo de Aplicacio
 <img srcset="imagen_mkdocs.jpg 1600w, imagen_mkdocs.jpg 1000w, imagen_mkdocs.jpg 800w, imagen_mkdocs.jpg 500w" src="imagen_mkdocs.jpg" alt="imagen responsive mkdocs">
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>
+
+## Vídeos y auido en HTML
+
+### Video mp4
+
+<video id="video_yt" width="700" height="350" controls>
+    <source src="videoMkdocsMp4.mp4">
+    Tu navegador no soporta videos
+</video>
+
+### Video webm
+
+<video>
+    <source src="videoMkdocsWebm.webm" type="video/webm">
+    Tu navegador no soporta videos
+</video>
+
+### Audio mp3
+<audio>
+    <source src="audioMkdocs.mp3" type="audio/mpeg; codecs='mp3'">
+</audio>
