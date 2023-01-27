@@ -19,13 +19,13 @@ Me llamo Hugo Blanco Cánovas y soy estudiante de 2º de Desarrollo de Aplicacio
 
 ## Vídeos y auido en HTML
 
-### Video mp4
+### Video Youtube
 
 <iframe width="420" height="345" src="https://www.youtube.com/watch?v=7XO1AzwkPPE&ab_channel=pildorasinformaticas"></iframe>
 
 ### Video webm
 
-<video>
+<video width="420" height="345">
     <source src="videoMkdocsWebm.webm" type="video/webm">
     Tu navegador no soporta videos
 </video>
