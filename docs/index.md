@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Me llamo Hugo Blanco Cánovas y soy estudiante de 2º de Desarrollo de Aplicaciones Web en el [IES Severo Ochoa]:https://portal.edu.gva.es/03013224/es/inicio/
+Me llamo Hugo Blanco Cánovas y soy estudiante de 2º de Desarrollo de Aplicaciones Web en el [IES Severo Ochoa](https://portal.edu.gva.es/03013224/es/inicio/)
 
 ## Project layout
 
@@ -22,7 +22,7 @@ Me llamo Hugo Blanco Cánovas y soy estudiante de 2º de Desarrollo de Aplicacio
 ### Video mp4
 
 <video id="video_yt" width="700" height="350" controls>
-    <source src="videoMkdocsMp4.mp4">
+    <source src="https://www.youtube.com/watch?v=7XO1AzwkPPE&ab_channel=pildorasinformaticas">
     Tu navegador no soporta videos
 </video>
 
