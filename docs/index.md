@@ -21,7 +21,9 @@ Me llamo Hugo Blanco Cánovas y soy estudiante de 2º de Desarrollo de Aplicacio
 
 ### Video Youtube
 
-<video width="420" height="345" src="https://www.youtube.com/watch?v=7XO1AzwkPPE&ab_channel=pildorasinformaticas"></video>
+<video width="420" height="345">
+    <source src="https://www.youtube.com/watch?v=7XO1AzwkPPE&ab_channel=pildorasinformaticas">
+</video>
 
 ### Video webm
 
